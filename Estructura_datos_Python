@@ -1,0 +1,31 @@
+Semana 1: Tipos de datos
+
+- Cadenas de caracteras
+- Fechas
+- Tuplas
+- Listas de...
+    - Pilas
+    - Colas
+    - Conjuntos y Matrices
+    - Diccionarios
+
+Las Tuplas, listas y diccionarios son estructuras de datos
+
+Estructura de datos:
+  Es una forma especifica de organizar los datos en la computadora para que puedan ser utilizados
+  de manera eficiente.
+
+Tuplas:
+  Son secuencias de objetos que son INMUTABLES
+
+Listas:
+  Secuencia de objetos mutable
+
+Diccionario:
+  Definen claves y cada clave tiene un valor asociado
+
+
+
+
+
+
